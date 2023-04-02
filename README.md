@@ -1,4 +1,6 @@
-# machine-learning-to-recognize-handwritten-digitsThis program uses the scikit-learn library to train a neural network classifier to recognize handwritten digits.
+# machine-learning-to-recognize-handwritten-digits
+
+This program uses the scikit-learn library to train a neural network classifier to recognize handwritten digits.
 
 First, the program loads the dataset of handwritten digits and splits it into training and testing sets. Then, it creates a neural network classifier with two hidden layers of 16 neurons each and trains it on the training data.
 
